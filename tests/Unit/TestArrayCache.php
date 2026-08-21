@@ -7,7 +7,7 @@ namespace Quillstack\Cache\Tests\Unit;
 use DateInterval;
 use Quillstack\Cache\Exceptions\InvalidCacheKeyException;
 use Quillstack\Cache\ArrayCache;
-use Quillstack\Cache\Clock\FrozenClock;
+use Quillstack\Clock\FrozenClock;
 use Quillstack\UnitTests\AssertEqual;
 use Quillstack\UnitTests\AssertExceptions;
 use Quillstack\UnitTests\Types\AssertBoolean;

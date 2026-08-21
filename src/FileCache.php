@@ -7,7 +7,7 @@ namespace Quillstack\Cache;
 use DateInterval;
 use Psr\Clock\ClockInterface;
 use Psr\SimpleCache\CacheInterface;
-use Quillstack\Cache\Clock\SystemClock;
+use Quillstack\Clock\SystemClock;
 use Quillstack\Cache\Exceptions\CacheException;
 use Quillstack\StorageInterface\StorageInterface;
 use Throwable;

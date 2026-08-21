@@ -7,7 +7,7 @@ namespace Quillstack\Cache;
 use DateInterval;
 use Psr\Clock\ClockInterface;
 use Psr\SimpleCache\CacheInterface;
-use Quillstack\Cache\Clock\SystemClock;
+use Quillstack\Clock\SystemClock;
 
 /**
  * Keeps entries for as long as the process runs, which is what a single request needs and

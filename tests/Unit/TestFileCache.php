@@ -6,7 +6,7 @@ namespace Quillstack\Cache\Tests\Unit;
 
 use Quillstack\Cache\Exceptions\CacheException;
 use Quillstack\Cache\FileCache;
-use Quillstack\Cache\Clock\FrozenClock;
+use Quillstack\Clock\FrozenClock;
 use Quillstack\LocalStorage\LocalStorage;
 use Quillstack\UnitTests\AssertEqual;
 use Quillstack\UnitTests\AssertExceptions;
