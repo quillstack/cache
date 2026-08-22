@@ -5,8 +5,8 @@ declare(strict_types=1);
 namespace Quillstack\Cache\Tests\Unit;
 
 use DateInterval;
-use Quillstack\Cache\Exceptions\InvalidCacheKeyException;
 use Quillstack\Cache\ArrayCache;
+use Quillstack\Cache\Exceptions\InvalidCacheKeyException;
 use Quillstack\Clock\FrozenClock;
 use Quillstack\UnitTests\AssertEqual;
 use Quillstack\UnitTests\AssertExceptions;
