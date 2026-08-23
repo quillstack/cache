@@ -9,7 +9,7 @@
         "psr-16",
         "php8"
     ],
-    "homepage": "https://quillstack.org/cache",
+    "homepage": "https://quillstack.org/packages/cache",
     "authors": [
         {
             "name": "Radek Ziemniewicz",
