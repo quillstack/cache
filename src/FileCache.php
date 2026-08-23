@@ -176,5 +176,4 @@ class FileCache implements CacheInterface
             throw new CacheException("Unable to create the cache directory: {$this->directory}", 0, $throwable);
         }
     }
-
 }

@@ -135,5 +135,4 @@ class ArrayCache implements CacheInterface
 
         return true;
     }
-
 }
