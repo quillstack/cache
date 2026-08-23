@@ -6,6 +6,11 @@
 [![PHP Version](https://img.shields.io/packagist/php-v/quillstack/cache)](https://packagist.org/packages/quillstack/cache)
 [![StyleCI](https://github.styleci.io/repos/1342146232/shield?branch=main)](https://github.styleci.io/repos/1342146232?branch=main)
 [![CodeFactor](https://www.codefactor.io/repository/github/quillstack/cache/badge)](https://www.codefactor.io/repository/github/quillstack/cache)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=quillstack_cache&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=quillstack_cache)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=quillstack_cache&metric=coverage)](https://sonarcloud.io/summary/new_code?id=quillstack_cache)
+[![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=quillstack_cache&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=quillstack_cache)
+[![Reliability](https://sonarcloud.io/api/project_badges/measure?project=quillstack_cache&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=quillstack_cache)
+[![Security](https://sonarcloud.io/api/project_badges/measure?project=quillstack_cache&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=quillstack_cache)
 [![License](https://img.shields.io/packagist/l/quillstack/cache)](https://github.com/quillstack/cache/blob/main/LICENSE)
 
 A simple cache based on PSR-16: Common Interface for Caching Libraries.
