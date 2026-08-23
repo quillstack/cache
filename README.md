@@ -5,6 +5,7 @@
 [![Downloads](https://img.shields.io/packagist/dt/quillstack/cache.svg)](https://packagist.org/packages/quillstack/cache)
 [![PHP Version](https://img.shields.io/packagist/php-v/quillstack/cache)](https://packagist.org/packages/quillstack/cache)
 [![StyleCI](https://github.styleci.io/repos/1342146232/shield?branch=main)](https://github.styleci.io/repos/1342146232?branch=main)
+[![CodeFactor](https://www.codefactor.io/repository/github/quillstack/cache/badge)](https://www.codefactor.io/repository/github/quillstack/cache)
 [![License](https://img.shields.io/packagist/l/quillstack/cache)](https://github.com/quillstack/cache/blob/main/LICENSE)
 
 A simple cache based on PSR-16: Common Interface for Caching Libraries.
